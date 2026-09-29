@@ -12,4 +12,4 @@ User-agent: Twitterbot
 Disallow:
 
 # Replace the URL below with your actual XML sitemap link
-Sitemap: https://yourdomain.com
+Sitemap: https://hypercube-simulation-eight.vercel.app/
