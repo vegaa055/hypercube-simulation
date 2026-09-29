@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%"><stop offset="0" stop-color="#1d2863"/><stop offset="1" stop-color="#0a0f2b"/></radialGradient>
+    <linearGradient id="g0" gradientUnits="userSpaceOnUse" x1="18.01" y1="40.42" x2="8.68" y2="46.03"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="37.37" y1="37.75" x2="40.95" y2="41.59"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="18.01" y1="20.26" x2="8.68" y2="12.44"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="37.37" y1="17.6" x2="40.95" y2="8"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g4" gradientUnits="userSpaceOnUse" x1="26.63" y1="46.4" x2="23.05" y2="56"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g5" gradientUnits="userSpaceOnUse" x1="45.99" y1="43.74" x2="55.32" y2="51.56"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g6" gradientUnits="userSpaceOnUse" x1="26.63" y1="26.25" x2="23.05" y2="22.41"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+    <linearGradient id="g7" gradientUnits="userSpaceOnUse" x1="45.99" y1="23.58" x2="55.32" y2="17.97"><stop offset="0" stop-color="#35c8f0"/><stop offset="1" stop-color="#ff4d6a"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14.08" fill="url(#bg)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18.01 40.42L37.37 37.75M18.01 40.42L18.01 20.26M18.01 40.42L26.63 46.4M37.37 37.75L37.37 17.6M37.37 37.75L45.99 43.74M18.01 20.26L37.37 17.6M18.01 20.26L26.63 26.25M37.37 17.6L45.99 23.58M26.63 46.4L45.99 43.74M26.63 46.4L26.63 26.25M45.99 43.74L45.99 23.58M26.63 26.25L45.99 23.58" stroke="#35c8f0" stroke-width="3.3"/>
+    <g stroke-width="2.8">
+      <path d="M18.01 40.42L8.68 46.03" stroke="url(#g0)"/>
+      <path d="M37.37 37.75L40.95 41.59" stroke="url(#g1)"/>
+      <path d="M18.01 20.26L8.68 12.44" stroke="url(#g2)"/>
+      <path d="M37.37 17.6L40.95 8" stroke="url(#g3)"/>
+      <path d="M26.63 46.4L23.05 56" stroke="url(#g4)"/>
+      <path d="M45.99 43.74L55.32 51.56" stroke="url(#g5)"/>
+      <path d="M26.63 26.25L23.05 22.41" stroke="url(#g6)"/>
+      <path d="M45.99 23.58L55.32 17.97" stroke="url(#g7)"/>
+    </g>
+    <path d="M8.68 46.03L40.95 41.59M8.68 46.03L8.68 12.44M8.68 46.03L23.05 56M40.95 41.59L40.95 8M40.95 41.59L55.32 51.56M8.68 12.44L40.95 8M8.68 12.44L23.05 22.41M40.95 8L55.32 17.97M23.05 56L55.32 51.56M23.05 56L23.05 22.41M55.32 51.56L55.32 17.97M23.05 22.41L55.32 17.97" stroke="#ff4d6a" stroke-width="3.5"/>
+  </g>
+</svg>
