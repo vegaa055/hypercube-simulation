@@ -11,5 +11,4 @@ Disallow:
 User-agent: Twitterbot
 Disallow:
 
-# Replace the URL below with your actual XML sitemap link
-Sitemap: https://hypercube-simulation-eight.vercel.app/
+Sitemap: https://hypercube-simulation-eight.vercel.app/sitemap.xml
